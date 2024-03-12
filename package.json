@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-disallowed-words",
+  "version": "1.0.0",
+  "description": "this is a plugin for eslint,to disallowed user input wrong words",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "author": "brzhang",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "mocha": "^10.3.0"
+  }
+}
