@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-disallowed-words",
+  "name": "@tencent/eslint-plugin-disallowed-words",
   "version": "1.0.0",
   "description": "this is a plugin for eslint,to disallowed user input wrong words",
   "main": "index.js",
