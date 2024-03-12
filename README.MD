@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm install @tencent/eslint-plugin-disallowed-words --save-dev
+npm install eslint-plugin-disallowed-words --save-dev
 
 ```
 
@@ -16,10 +16,10 @@ npm install @tencent/eslint-plugin-disallowed-words --save-dev
 ```json
 {
   "plugins": [
-    "@tencent/disallowed-words"
+    "disallowed-words"
   ],
   "rules": {
-    "@tencent/disallowed-words/no-disallowed-words": ["error", ["模版", "登陆"]]
+    "disallowed-words/no-disallowed-words": ["error", ["模版", "登陆"]]
   }
 }
 
